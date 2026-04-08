@@ -21,9 +21,7 @@ The schema is built to answer real business questions:
  
 ## ER Diagram
  
-![Clinic ER Diagram](https://res.cloudinary.com/YOUR_CLOUD_NAME/image/upload/v1/YOUR_IMAGE_PUBLIC_ID.png)
- 
-> _Replace the Cloudinary URL above with your actual uploaded image link._
+![Clinic ER Diagram](https://res.cloudinary.com/db7qmdfr2/image/upload/v1775662004/diagram-export-4-8-2026-8_30_28-PM_fk6j6u.png)
  
 ---
  
